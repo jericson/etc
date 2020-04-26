@@ -1,0 +1,1 @@
+To use on Windows, you need to first [enable the bash shell](https://www.omgubuntu.co.uk/2016/08/enable-bash-windows-10-anniversary-update) or [Cygwin/X](https://x.cygwin.com/). Cygwin used to be the only (reasonable) game in town, but Microsoft's inclusion of a bash shell makes things easier.
